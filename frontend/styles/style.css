@@ -1,0 +1,117 @@
+.hr-line {
+
+        border: 1px solid#E0FFFF;
+      
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-ser;
+}
+
+.data1{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    text-align: right;
+}
+
+.data1 h4{
+    color: 	#191970;
+    font-weight: bold;
+}
+.data2 h4{
+    color: 	#191970;
+    font-weight: bold;
+}
+
+.data2{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    text-align: left;
+}
+
+
+.about{
+    background-color: #9ACD32;
+    font-family: assistant;
+    color: white;
+    margin-top: -60px;
+}
+
+
+.skill {
+    background-color:	#FFD700;
+    font-family: assistant;
+    color: white;
+}
+
+
+.skill-icon{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+   
+}
+
+.skill-icon img{
+    margin: 10px;
+}
+.skill-icon img:hover {
+    transform:scale(1.15);
+}
+
+.portofolio {
+    background-color:#F4A460;
+    font-family: assistant;
+    color: white;
+}
+
+.contact {
+    background-color:#663399;
+    font-family: assistant;
+    color: white;
+}
+
+
+.name {
+    color: red;
+    font-size: 24px;
+    
+}
+
+.jumbotron {
+    background-image: url(/frontend/images/jum.jpeg);
+    background-size: cover;
+    height: 25%;
+}
+
+.card {
+
+    box-sizing: border-box;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.card img{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+  height: 300px;
+}
+
+.name{
+    color: red;
+}
+
+
+.text-porto {
+    color: black;
+}
+
+.text-list {
+    color: black;
+}

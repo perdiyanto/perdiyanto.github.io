@@ -1,0 +1,160 @@
+body {
+    background-color:#40407a;
+}
+
+p {
+    color: #fff;
+}
+
+.jumbotron h5 {
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.jumbotron h1 {
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: semi-bold;
+    color: #fbc531;
+}
+
+.jumbotron h3 {
+    font-size: 32px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.navbar-brand {
+    font-size: 20px;
+}
+
+.bg-color {
+    background: #031110;
+}
+
+.jumbotron-fluid {
+    background-image: url('frontend/images/header.png');
+    background-size: cover;
+    height: 750px;
+}
+
+.jumbotron-fluid .col{
+    color: #fff;
+    margin-top: 142px;
+}
+
+.bg-about-us {
+    background-color: #0B1015;
+    margin-top: -32px;
+}
+
+.about-us {
+    background-color: #16A085;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: #fff;
+
+}
+
+.col-pendidikan {
+    background-color: #f39c12;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+
+}
+
+.bg-pendidikan {
+    background-color: #0B1015;
+    margin-top: -32px;
+    
+}
+
+
+.bg-skkill {
+    background-color: #0B1015;
+    margin-top: -32px;
+    
+}
+
+.col-skill {
+    background-color: #c0392b;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+
+
+    
+}
+
+.bg-porto {
+    background-color: #0B1015;
+    margin-top: -32px;
+    
+}
+
+.col-porto {
+    background-color: #2980b9;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+
+}
+
+.bg-kontak {
+    background-color: #0B1015;
+    margin-top: -32px;
+    
+}
+
+.col-kontak {
+    background-color: #22a6b3;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+
+}
+
+.fab {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+
+  .img-skill {
+      transform: scale;
+  }
+
+  .img-skill:hover {
+    transform:scale(1.15);
+    }
+
+  
